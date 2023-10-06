@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  rupphr
+
+  Created by SENGHORT on 4/12/18.
+  Copyright © 2018 SENGHORT. All rights reserved.
+*/
+
+"Employee_Info" = "ព័ត៌មានបុគ្គលិក";
+"Employee_Code" = "លេខសំគាល់";
+"Employee_Name" = "ឈ្មោះ";
+"Employee_JobTitle" = "តួនាទី";
+"Employee_DeptNo" = "នាយកដ្ឋានលេខ";
+"Employee_DOB" = "ថ្ងៃ ខែ ឆ្នាំ កំណើត";
+"Employee_Sex" = "ភេទ";
+"Employee_Phone" = "លេខទូរសព្";
+"Employee_KamPrak" = "កាំប្រាក់";
+"Employee_Spouses" = "ប្តីឬប្រពន្ធ";
+"Employee_Children" = "ចំនួនកូន";
+"Employee_HiredDate" = "ថ្ងៃចូលបំរើការងារ";
+"Employee_Contract" = "បុគ្គលិក";
+"Employee_Deativated" = "បម្រើការងារ";
+"Contract_Not_Kramkhan" = "ក្របខ័ណ្ឌ";
+"Contract_Kramkhan" = "កិច្ចសន្យា";
+

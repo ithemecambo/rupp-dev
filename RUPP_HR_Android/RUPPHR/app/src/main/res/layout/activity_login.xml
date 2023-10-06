@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rupp.senghort.rupphr.activity.LoginActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:background="#EEEEEE"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/loginLayout"
+            android:padding="40dp"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:id="@+id/logo"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:gravity="center"
+                android:padding="15dp">
+
+                <ImageView
+                    android:paddingTop="20dp"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:background="@mipmap/rupp_logo" />
+            </LinearLayout>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:ems="10"
+                android:id="@+id/txtUsername"
+                android:drawableLeft="@mipmap/ic_user"
+                android:hint="@string/login_username"
+                android:layout_marginTop="30dp"
+                android:textColor="#000"
+                android:paddingLeft="0dp"
+                android:drawablePadding="5dp"
+                android:textColorHint="#999"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:id="@+id/txtPassword"
+                android:drawableLeft="@mipmap/ic_key"
+                android:hint="@string/login_password"
+                android:layout_marginTop="10dp"
+                android:textColor="#000"
+                android:paddingLeft="0dp"
+                android:drawablePadding="5dp"
+                android:textColorHint="#999"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="@string/login_by_btn_login"
+                android:id="@+id/btnLogin"
+                android:textColor="#FFF"
+                android:background="@drawable/selector_button"
+                android:layout_gravity="center_horizontal"
+                android:onClick="checkLogin"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="@string/login_by_btn_fp"
+                android:id="@+id/textView3"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="40dp"
+                android:textColor="#000"
+                />
+
+        </LinearLayout>
+
+        <com.rey.material.widget.ProgressView
+            android:id="@+id/progressView"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            style="?android:attr/progressBarStyleLarge"
+
+            app:pv_circular="true"
+            app:pv_progressStyle="@style/Material.Drawable.CircularProgress"
+            app:pv_progressMode="indeterminate"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:indeterminate="true"/>
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>

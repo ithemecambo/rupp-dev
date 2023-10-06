@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">ព័ត៌មានបុគ្គលិក</string>
+    <string name="hide_empty_sections">Hide Empty Sections</string>
+    <string name="show_footers">Show Footers</string>
+    <string name="click_headers_to_expand">Click Headers to Expand/Collapse</string>
+    <string name="item_header">Birthday</string>
+    <string name="item_title">May 25 1992</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_khmer">Khmer</string>
+    <string name="action_english">English</string>
+    <string name="staff_name">kheam Hong</string>
+
+    <string name="header_name">Name</string>
+    <string name="header_jobTitle">Job Title</string>
+    <string name="header_sex">Sex</string>
+    <string name="header_phone">Phone</string>
+    <string name="header_kamPrak">Kam Prak</string>
+    <string name="header_spouses">Spouses</string>
+    <string name="header_children">Children</string>
+    <string name="header_hiredDate">Hired Date</string>
+    <string name="header_contract">Contract</string>
+    <string name="header_deactivated">Deactivated</string>
+
+    <string name="app_ok">យល់ព្រម</string>
+    <string name="app_cancel">បោះបង់</string>
+    <string name="title">សារបញ្ជាក់</string>
+    <string name="status_message">សូមប្រើប្រាស់គណនីដែលបានផ្តល់ឲ្យ (លេខទូរស័ព្ទ: ​089856650 និង ពាក្យសម្ងាត់: 12345) បន្ទាប់មកធ្វើការផ្លាស់ប្តូរពាក្យសម្ងាត់តាមក្រោយ។</string>
+
+    <string name="login_title_error">ព័ត៌មានមិនត្រឹមត្រូវ</string>
+    <string name="login_username">សូមបញ្ចូលលេខទូរស័ព្ទ ឬ ឈ្មោះ</string>
+    <string name="login_password">សូមបញ្ចូលពាក្យសម្ងាត់</string>
+    <string name="login_by_btn_login">ចូលប្រើប្រាស់</string>
+    <string name="login_by_btn_fp">ភ្លេចពាក្យសម្ងាត់</string>
+
+    <string name="server_error">ម៉ាស៊ីនមេមានបញ្ហា</string>
+    <string name="require_username">លេខទូរស័ព្ទ ឬ ឈ្មោះមិនអាចអត់មាន</string>
+    <string name="require_password">ពាក្យសម្ងាត់មមិនអាចអត់មាន</string>
+
+    <string name="deactivated_message">បុគ្គលិកម្នាក់នេះត្រូវបានឈប់ធ្វើការងារពីស្ថាបន័ហើយ ។</string>
+
+    <string name="change_password">ផ្លាស់ប្តូរពាក្យសម្ងាត់</string>
+    <string name="current_password">ពាក្យសម្ងាត់​បច្ចុប្បន្ន</string>
+    <string name="new_password">ពាក្យសម្ងាត់​ថ្មី</string>
+    <string name="re_type_new_password">វាយពាក្យសម្ងាត់ថ្មីម្តងទៀត</string>
+    <string name="save_changes">រក្សាទុកការផ្លាស់ប្តូរ</string>
+
+    <string name="require_current_password">ពាក្យសម្ងាត់​បច្ចុប្បន្នមិនអាចអត់មាន</string>
+    <string name="require_new_password">ពាក្យសម្ងាត់​ថ្មីមិនអាចអត់មាន</string>
+    <string name="require_re_type_new_password">វាយពាក្យសម្ងាត់ថ្មីម្តងទៀតមិនអាចអត់មាន</string>
+
+    <string name="data_info">The future’s a slippery fish. We spend so much time trying to second-guess it and pin it down before it bites us that it’s typically here before we’re ready. But sometimes we’re just not looking in the right place.
+            The science fiction writer William Gibson had it right: “The future is already here – it’s just not evenly distributed.” The future feels like it is forever over the horizon, making it easy to forget that it emerges from the present.
+            This is a guiding principle behind Future Now, a new addition to BBC Future, dedicated to in-depth stories about the people, events and trends that are reshaping our world. And we wanted to come to Digg to tell you what we’re up to.
+            We’ll be significantly expanding our coverage of technology and how it is influencing society, business and the lives of individuals, as well as delving into new areas, such as economics and social science. We’ll be seeking out big ideas in energy and resources, unpicking the hidden industries poised to change how we live, and identifying important new societal shifts around the globe. And that’s just the start.
+            The aim is to uncover what really matters in the world today – and share information that you can trust. We launch in a year when fake news on social networks is making it hard to tell what is true and what is not. At Future Now, we will be using our worldwide network of experienced reporters and video makers to cut through the noise.
+            We launched less than two weeks ago, but there are already a great bunch of stories in the mix. Chris Baraniuk hitched a ride onboard a container ship through the busiest seas in the world. Nearly everything you own comes to you by sea and, as we discovered, that means the oceans are getting crowded. We also sent Chris to Iceland where people have just voted the Pirate Party – which has roots in internet activism – into power. He sat down with party leader Birgitta Jonsdottir to talk about mass surveillance, digital privacy and a new form of government in which policies are crowdsourced online.
+            Sandrine Ceurstemont visited one of the world’s largest solar power plants on the rugged plains beneath Morocco’s High Atlas mountains. Finally embracing its most abundant energy resource, Africa is preparing to power itself with sunshine and has ambitions to one day export energy to Europe. And David Hambling finds out why the world’s militaries are failing to keep up with consumer drones.
+            We also have a stunning photo series from photographer Elena Chernyshova that captures how our thirst for resources is changing landscapes: she spent 10 days at the Kupol gold mine in the frozen wastes of Eastern Siberia. It is more like a moon base than a mine.
+            Of course, tech shapes things closer to home too. Tom Chatfield reveals how our smartphone obsession is leading to new words to describe ourselves, such as the Chinese phrase “bowed-head tribe”. And Chris Stokel-Walker has an in-depth story about a trend among sex workers to sell intimacy via social media. The sex industry has been a trailblazer in the past, driving adoption of VHS tapes, online video and now VR. Sex workers’ use of social media is yet another harbinger of where our digitally-mediated relationships are headed.
+            Predicting the future might be a fool’s game but that shouldn’t stop us. Looking ahead lets us shape what’s to come. What’s more, there are a few constants. People, for one. Plus, history repeating itself. So several of the stories we’ve picked for this Digg Takeover are about human psychology and history as well as technology.
+            There is much more to come – and we hope you’ll join us. We want Future Now to be the place to see snapshots of a world in flux.
+    </string>
+    <string name="staff_position">Deputy Head of the Office</string>
+    <string name="header_code">ID</string>
+    <string name="header_deptNo">Department No</string>
+    <string name="header_dob">DOB</string>
+    <string name="author">Author</string>
+
+    <string name="monthly_teaching">Monthly Teaching</string>
+    <string name="payroll">Payroll</string>
+    <string name="account_settings">Account &amp; Settings</string>
+
+    <string name="linear_sectioned_recyclerview_vertical">Linear Sectioned RecyclerView (Vertical)</string>
+    <string name="linear_sectioned_recyclerview_horizontal">Linear Sectioned RecyclerView (Horizontal)</string>
+    <string name="grid_sectioned_recyclerview">Grid Sectioned RecyclerView</string>
+    <string name="show_all">Show All</string>
+
+</resources>

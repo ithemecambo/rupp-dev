@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  rupphr
+
+  Created by SENGHORT on 4/12/18.
+  Copyright © 2018 SENGHORT. All rights reserved.
+*/
+
+"Employee_Info" = "Employee Information";
+"Employee_Code" = "Code";
+"Employee_Name" = "Name";
+"Employee_JobTitle" = "Job Title";
+"Employee_DeptNo" = "Department";
+"Employee_DOB" = "Date of Birth";
+"Employee_Sex" = "Sex";
+"Employee_Phone" = "Phone";
+"Employee_KamPrak" = "Karprak";
+"Employee_Spouses" = "Spouses";
+"Employee_Children" = "Children";
+"Employee_HiredDate" = "Hired Date";
+"Employee_Contract" = "Contract";
+"Employee_Deativated" = "Deativated";
+"Contract_Not_Kramkhan" = "ក្របខ័ណ្ឌ";
+"Contract_Kramkhan" = "កិច្ចសន្យា";
+
